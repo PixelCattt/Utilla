@@ -3,7 +3,7 @@
 
   A Gorilla Tag Mod that allows you to Join Modded Rooms and lets Developers Add various Room-Related Things.
 
-  <a href="https://github.com/PixelCattt/Utilla/compare/88ca464...master">
+  <a href="https://github.com/PixelCattt/Utilla/compare/88ca464...2.0.0">
     <img src="https://img.shields.io/badge/view-changes-lime?style=for-the-badge"</img>
   </a>
 
